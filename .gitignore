@@ -1,0 +1,11 @@
+# Inside .gitignore
+.venv/
+__pycache__/
+*.pyc
+.env
+
+
+# Distribution / builds
+dist/
+build/
+*.egg-info/
